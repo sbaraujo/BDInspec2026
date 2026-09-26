@@ -1,0 +1,6 @@
+{
+  "name": "SYGMA DATABASE STUDIO AI",
+  "description": "AI-Powered Low-Code/No-Code Relational Application Builder. Modele bancos de dados relacionais, telas, formulários, relatórios e automações com inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
